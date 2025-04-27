@@ -24,6 +24,7 @@ R과 Python은 데이터 분석에 많이 사용되는 언어입니다. 대학�
 ## 🔗 관련 링크
 
 - 🔗 Colab:  [Colab](https://colab.research.google.com/drive/15gGNITW41iiDl9lQNqf0kp4BGJp_Qdmx?usp=sharing)
+- 🔗 R-Project: [R](./BIO_18_Project.html) -> 제작 동기에서 언급한 R을 사용하여 제작했던 팀 프로젝트입니다.
 
 ---
 
