@@ -71,9 +71,12 @@ PYTHON PROJECT/
 
 ## 🕹️ 웹크롤링 페이지
 
-- NCAA 베팅 금액 관련 : https://www.boydsbets.com/much-bet-march-madness/ 에서 제공하는 베팅 금액의 변화를 확인했습니다.
-- NCAA Championship Final Viewership : https://www.sportsmediawatch.com/ncaa-final-four-ratings-history-most-watched-games-cbs-tbs-nbc/ 에서 NCAA 결승의 시청률 데이터를 크롤링했습니다.
-- NBA Finals Viewership : https://www.sportsmediawatch.com/nba-finals-ratings-viewership-history/ 에서 NBA 결승의 시청률 데이터를 크롤링했습니다.
+- NCAA 베팅 금액 관련 :
+    - https://www.boydsbets.com/much-bet-march-madness/ 에서 제공하는 베팅 금액의 변화를 확인했습니다.
+- NCAA Championship Final Viewership :
+    - https://www.sportsmediawatch.com/ncaa-final-four-ratings-history-most-watched-games-cbs-tbs-nbc/ 에서 NCAA 결승의 시청률 데이터를 크롤링했습니다.
+- NBA Finals Viewership :
+    - https://www.sportsmediawatch.com/nba-finals-ratings-viewership-history/ 에서 NBA 결승의 시청률 데이터를 크롤링했습니다.
 
 ---
 
@@ -105,10 +108,10 @@ PYTHON PROJECT/
 
 ## 📷 시각화 자료 캡쳐 화면
 
-![bet.png](/PYTHON%20PROJECT/screenshots/bet.png)
+![bet.png](/screenshots/bet.png)
 
-![nba.png](/PYTHON%20PROJECT/screenshots/nba.png)
+![nba.png](/screenshots/nba.png)
 
-![ncaa.png](/PYTHON%20PROJECT/screenshots/ncaa.png)
+![ncaa.png](/screenshots/ncaa.png)
 
-![nba_vs_ncaa.png](/PYTHON%20PROJECT/screenshots/nba_vs_ncaa.png)
+![nba_vs_ncaa.png](/screenshots/nba_vs_ncaa.png)
